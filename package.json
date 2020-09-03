@@ -1,0 +1,22 @@
+{
+  "name": "q",
+  "version": "1.0.0",
+  "description": "c",
+  "main": "C",
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "^C",
+    "start": "webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "^C"
+  },
+  "author": "cccCC",
+  "license": "ISC"
+}
